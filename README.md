@@ -497,7 +497,7 @@ MIT License - free for commercial use.
 
 - **GitHub Issues**: Bug reports & features
 - **Discussions**: Questions & ideas
-- **Twitter**: [@flux_protocol](https://twitter.com/flux_protocol)
+- **Twitter**: https://x.com/McKnight_the_1
 
 ---
 
@@ -505,8 +505,8 @@ MIT License - free for commercial use.
 
 Inspired by the needs of modern AI systems. Built for developers who care about performance and cost.
 
-**FLUX: Because your AI agents shouldn't speak JSON.**
+**FLUX: Lannguage at the speed of thought.**
 
 ---
 
-Made with ⚡ by ML | [Website](https://fluxprotocol.dev) | [Docs](https://docs.fluxprotocol.dev)
+Made with ⚡ by ML aka ZodiacDog
