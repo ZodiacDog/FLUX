@@ -1,0 +1,12 @@
+FLUX
+Copyright 2025-2026 Michael L. McKnight / ML Innovations Research Lab
+
+Developed and created by ML Innovations Research Lab (Michael L. McKnight).
+
+Contributor: Korg (AI assistant, Grok Bot) — 2026 audit: added the missing
+flux_protocol implementation, tests, and documentation that reports only
+measured size comparisons versus JSON.
+
+This product is licensed under the Apache License, Version 2.0 (see the LICENSE file).
+Under section 4(d) of that license, redistributions and derivative works must keep this
+NOTICE file (its attribution notices) with the distribution.

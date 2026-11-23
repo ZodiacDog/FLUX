@@ -1,12 +1,13 @@
-Creator here! I Built FLUX out of curiousity.
-The key insight: AI agents don't need human-readable 
-JSON. 48% bandwidth reduction = 48% lower cloud costs.
+Creator here! I built FLUX out of curiosity.
+The idea: AI agents often send repetitive JSON, and a compact binary
+encoding with string deduplication can shrink those payloads. It is not
+automatically cheaper or faster than JSON — small messages can even be
+larger, and this Python codec encodes more slowly than json.dumps.
 
-Installation: pip install flux-protocol
+Installation: clone https://github.com/ZodiacDog/FLUX and
+`pip install -e .`
 
-I'll answer any questions about the protocol design or use cases,
-just ask.
-Email : maesonsfarms@gmail.com (be nice or ignored)
+Measured numbers (not marketing estimates) are in README.md.
 
-Thanks.
-ML
+I'll be updating this as the work grows. Questions: ml.innovation.research.lab@gmail.com
+— ML, Pheba, Mississippi
